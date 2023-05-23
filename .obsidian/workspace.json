@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "47a0477015ea296e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3eb8ff88629eede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a74c1f34f4cb73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sqs/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7c865dca906f0de",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ba76c256a9142e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d68d155d6f34917",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f9c7be6d71f7a49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5117f62ebe464f2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a8358201d3ce202",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "23069f00c31d8c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "99390d873fe017f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de2b02ac36844eb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sqs/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4124ecff8533c48c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sqs/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "508508709358cca1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea1a46cfd800a16d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sqs/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d68d155d6f34917",
+  "lastOpenFiles": [
+    "amazon-s3/s3-using-terraform/README-syntax.md",
+    "amazon-s3/README.md",
+    "amazon-s3/img_1.png",
+    "amazon-s3/s3-using-terraform/README-main.md",
+    "terraform/install-terraform.md",
+    "amazon-s3/s3-lab.md",
+    "amazon-s3/s3-using-terraform/main.tf",
+    "amazon-s3/s3-using-terraform/main.txt",
+    "amazon-s3/s3-using-terraform/New Text Document.txt",
+    "amazon-s3/s3-using-terraform",
+    "amazon-s3/s3-with-terraform",
+    "amazon-s3/s3-with-terraform",
+    "amazon-s3/New folder",
+    "Untitled.md",
+    "Untitled 1.md",
+    "terraform",
+    "amazon-s3/Untitled.md",
+    "aws-free-tier-account/Untitled.md",
+    "aws-free-tier-account/set-up-a-cost-budget.md",
+    "aws-free-tier-account/aws-free-tier-account.md",
+    "aws-free-tier-account/aws-monthly-budget-exceeded.png",
+    "aws-free-tier-account/aws-inspect-budget.png",
+    "aws-free-tier-account/aws-attach-actions.png",
+    "aws-free-tier-account/aws-add-alert-threshold.png",
+    "aws-free-tier-account/budgeted-amount-threshold-2.png",
+    "aws-free-tier-account/budgeted-amount-threshold.png",
+    "aws-free-tier-account/set-your-budget.png",
+    "Pasted image 20230307174808.png",
+    "aws-free-tier-account/aws-choose-budget-type.png",
+    "Read-this.md",
+    "aws-free-tier-account",
+    "vpc/README.md",
+    "iam/README.md"
+  ]
+}
